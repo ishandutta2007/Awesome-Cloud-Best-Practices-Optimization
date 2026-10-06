@@ -63,7 +63,7 @@ Welcome to the ultimate curated directory of **cloud best practices platforms**,
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Infracost](https://github.com/infracost/infracost)** [![Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers) 💰  
   **Cloud cost estimates for Terraform in pull requests**, Apache-2.0 licensed. **Shift-left FinOps** — displays the exact cost impact of infrastructure changes before deployment. Supports AWS, Azure, GCP, and **1,000+ Terraform resources**. Includes CLI, GitHub Actions, GitLab CI, and VS Code extensions 🚀.
